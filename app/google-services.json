@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "63002119440",
+    "firebase_url": "https://rainbow-katalog.firebaseio.com",
+    "project_id": "rainbow-katalog",
+    "storage_bucket": "rainbow-katalog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63002119440:android:786493b23b790ea8d22995",
+        "android_client_info": {
+          "package_name": "com.creative.rainbow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63002119440-3fkrl9sdnvl9906p95gtes39vh6rhmho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creative.rainbow",
+            "certificate_hash": "16b84096894972da49803b6510d079f020ae2da2"
+          }
+        },
+        {
+          "client_id": "63002119440-m6lm708ebc34q5f4951pjurvolndavvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creative.rainbow",
+            "certificate_hash": "3a62b73725f399bfdc799aa3647a69b4b3dde180"
+          }
+        },
+        {
+          "client_id": "63002119440-1r60prc5cq9db5o7qarb6qo0tetqt97q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjYWuzE_G8upxG0db_xP0ZIqIcyYYvMhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63002119440-1r60prc5cq9db5o7qarb6qo0tetqt97q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

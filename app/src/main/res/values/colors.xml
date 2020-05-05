@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bg_splash">#EDF2F7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="trans">#A3A0A0</color>
+    <color name="trans2">#0DA3A0A0</color>
+    <color name="trans3">#19A3A0A0</color>
+    <color name="title">#000000</color>
+    <color name="outer">#000000</color>
+    <color name="color1">#424549</color>
+    <color name="color2">#7e455e</color>
+    <color name="color3">#796e25</color>
+    <color name="color4">#59717c</color>
+</resources>
